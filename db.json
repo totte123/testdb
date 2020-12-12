@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "title": "😛",
+            "description": "",
+            "is_hidden": true,
+            "track_count": 0,
+            "collaborator_count": 1
+        },
+        {
+            "title": "HOP",
+            "description": "",
+            "is_hidden": true,
+            "track_count": 0,
+            "collaborator_count": 1
+        },
+        {
+            "title": "⛓GYM",
+            "description": "",
+            "is_hidden": true,
+            "track_count": 0,
+            "collaborator_count": 1
+        },
+    ]
+}
